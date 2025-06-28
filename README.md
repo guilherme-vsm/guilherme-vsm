@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**guilherme-vsm/guilherme-vsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">My name is Guilherme and I'm a Computer Science student from Brazil.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">👨‍💻 About Me</h2>
+
+<ul align="left">
+  <li>🎓 Computer Science student at UFSCar - Sorocaba</li>
+  <li>🐞 Creating bugs since 2024</li>
+  <li>📚 Currently learning JavaScript and Node.js</li>
+  <li>🏁 Interested in Competitive Programming</li>
+</ul>
+
+---
+
+<h2 align="left">🛠️ I Code With</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+</div>

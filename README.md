@@ -2,8 +2,6 @@
 
 <p align="left">My name is Guilherme and I'm a Computer Science student from Brazil.</p>
 
----
-
 <h2 align="left">👨‍💻 About Me</h2>
 
 <ul align="left">
@@ -12,8 +10,6 @@
   <li>📚 Currently learning JavaScript and Node.js</li>
   <li>🏁 Interested in Competitive Programming</li>
 </ul>
-
----
 
 <h2 align="left">🛠️ I Code With</h2>
 

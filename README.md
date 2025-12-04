@@ -5,7 +5,6 @@
 - 🎓 Computer Science student at UFSCar - Sorocaba
 - 🏁 Interested in Competitive Programming
 - 🚀 Aspiring backend developer
-- 🖥️ I use Arch btw
 
 ## 🛠️ Tech Stack
 
@@ -30,4 +29,5 @@
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![I use Arch btw](https://img.shields.io/badge/I%20use%20Arch%20btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)

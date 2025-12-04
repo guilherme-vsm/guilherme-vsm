@@ -1,33 +1,43 @@
-<h1>Hey, I’m Guilherme Vinícius 👋</h1>
+# Hey, I’m Guilherme Vinícius 👋
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<ul>
-  <li>🎓 Computer Science student at UFSCar - Sorocaba</li>
-  <li>🏁 Interested in Competitive Programming</li>
-  <li>🚀 Aspiring back-end developer</li>
-  <li>🖥️ I use Arch btw</li>
-  <li>📚 Currently Learning — TypeScript, Node.js & NestJS</li>
-</ul>
+- 🎓 Computer Science student at UFSCar - Sorocaba
+- 🏁 Interested in Competitive Programming
+- 🚀 Aspiring backend developer
+- 🖥️ I use Arch btw
+- 📚 Currently Learning — TypeScript, Node.js & NestJS
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<h3>Languages</h3>
+### Languages
 
-<p>Typescript | Javascript | C++ | C | Java</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h3>Frontend</h3>
+### Frontend
 
-<p>React | Next.js</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<h3>Backend</h3>
+### Backend
 
-<p>Node.js | NestJS</p>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<h3>Databases & ORM</h3>
+### Databases & ORM
 
-<p>PostgreSQL | Prisma</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<h3>Tools & Environment</h3>
+### Tools & Environment
 
-<p>Git | Linux</p>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)

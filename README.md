@@ -6,7 +6,6 @@
 - 🏁 Interested in Competitive Programming
 - 🚀 Aspiring backend developer
 - 🖥️ I use Arch btw
-- 📚 Currently Learning — TypeScript, Node.js & NestJS
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +31,3 @@
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)

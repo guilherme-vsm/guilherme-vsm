@@ -18,24 +18,16 @@
 
 <h3>Frontend</h3>
 
-<p></p>
+<p>React | Next.js</p>
 
 <h3>Backend</h3>
 
-<p></p>
+<p>Node.js | NestJS</p>
 
 <h3>Databases & ORM</h3>
 
-<p></p>
+<p>PostgreSQL | Prisma</p>
 
 <h3>Tools & Environment</h3>
 
-<p></p>
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-</div>
+<p>Git | Linux</p>

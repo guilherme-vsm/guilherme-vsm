@@ -1,19 +1,19 @@
 <h1>Hey 👋 What's up?</h1>
 
-<p align="left">My name is Guilherme and I'm a Computer Science student from Brazil.</p>
+<p>My name is Guilherme and I'm a Computer Science student from Brazil.</p>
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
-<ul align="left">
+<ul>
   <li>🎓 Computer Science student at UFSCar - Sorocaba</li>
   <li>🐞 Creating bugs since 2024</li>
   <li>📚 Currently learning JavaScript and Node.js</li>
   <li>🏁 Interested in Competitive Programming</li>
 </ul>
 
-<h2 align="left">🛠️ I Code With</h2>
+<h2>🛠️ I Code With</h2>
 
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />

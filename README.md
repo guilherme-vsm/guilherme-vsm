@@ -1,17 +1,16 @@
-<h1>Hey 👋 What's up?</h1>
-
-<p>My name is Guilherme and I'm a Computer Science student from Brazil.</p>
+<h1>Hey, I’m Guilherme Vinícius 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
 
 <ul>
   <li>🎓 Computer Science student at UFSCar - Sorocaba</li>
-  <li>🐞 Creating bugs since 2024</li>
-  <li>📚 Currently learning JavaScript and Node.js</li>
   <li>🏁 Interested in Competitive Programming</li>
+  <li>🚀 Aspiring back-end developer</li>
+  <li>🖥️ I use Arch btw</li>
+  <li>📚 Currently Learning — TypeScript, Node.js & NestJS</li>
 </ul>
 
-<h2>🛠️ I Code With</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />

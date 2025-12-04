@@ -12,6 +12,26 @@
 
 <h2>🛠️ Tech Stack</h2>
 
+<h3>Languages</h3>
+
+<p>Typescript | Javascript | C++ | C | Java</p>
+
+<h3>Frontend</h3>
+
+<p></p>
+
+<h3>Backend</h3>
+
+<p></p>
+
+<h3>Databases & ORM</h3>
+
+<p></p>
+
+<h3>Tools & Environment</h3>
+
+<p></p>
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />

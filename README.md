@@ -1,4 +1,4 @@
-# Hey, I’m Guilherme Vinícius 👋
+# Hey, I’m Guilherme Marques 👋
 
 ## 👨‍💻 About Me
 
